@@ -11,9 +11,9 @@ aniShark 每季度进行一次统计、收集数据。
 
 > [!NOTE]
 >
-> 本统计数据源2017年1月至2025年7月由[H萌新番表](https://xf.hmacg.cn/)提供数据。
+> 本统计表中2017年1月至2025年7月由[**H萌新番表**](https://xf.hmacg.cn/)提供数据。
 >
-> 自2026年1月起，数据由自[XinyuuDB](https://db.xinyuu.cn/)提供。
+> 自2026年1月起，数据由**[XinyuuDB](https://db.xinyuu.cn/)**提供。
 > 
 
 
