@@ -5,6 +5,8 @@ export default defineConfig({
   description: 'aniShark基金会 - Building the Foundation of Animation Data',
   lang: 'zh-CN',
 
+  outDir: '../dist',
+
   themeConfig: {
     logo: '/anishark.svg',
 
