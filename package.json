@@ -1,0 +1,18 @@
+{
+  "name": "vitepress-starter",
+  "version": 1,
+  "description": "VitePress Starter",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "blog:gen": "node generate-blog-sidebar.js"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "dependencies": {
+    "echarts": "^6.0.0"
+  }
+}
