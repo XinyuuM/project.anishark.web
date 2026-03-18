@@ -9,7 +9,11 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/anishark.svg',
-
+ nav: [
+      { text: '首页', link: '/' },
+      { text: '文章动态', link: '/blog/' },
+      { text: 'XinyuuDB', link: 'https://db.xinyuu.cn' }
+    ],
 
 
     sidebar: {
@@ -47,17 +51,7 @@ export default defineConfig({
   },
 ],
 
-      // 首页侧边栏
-      '/': [
-        {
-          text: '快速导航',
-          items: [
-            { text: '数据统计', link: '/stats' },
-            { text: '博客动态', link: '/blog/2026/xinyuuDB' },
-            { text: 'API文档', link: '/api/' },
-          ]
-        }
-      ]
+     
     },
 
     docFooter: {
