@@ -19,21 +19,16 @@
 
         <!-- 产品分类 -->
         <div class="footer-section">
-          <h4 class="footer-heading">研究与产出</h4>
+          <h4 class="footer-heading">数据记录</h4>
           <ul class="footer-links">
-            <li><a href="https://db.xinyuu.cn"  target="_blank" rel="noopener">XinyuuDB</a></li>
+            <li><a href="https://db.xinyuu.cn/workerspace?season=12"  target="_blank" rel="noopener">2026Q2</a></li>
+			<li><a href="https://db.xinyuu.cn/workerspace?season=11"  target="_blank" rel="noopener">2026Q1</a></li>
+			<li><a href="https://db.xinyuu.cn/workerspace?season=14"  target="_blank" rel="noopener">2025Q4</a></li>
+			<li><a href="https://db.xinyuu.cn/workerspace?season=15"  target="_blank" rel="noopener">2025Q3</a></li>
           </ul>
         </div>
 
-        <!-- 法律信息分类 -->
-        <div class="footer-section">
-          <h4 class="footer-heading">法律信息</h4>
-          <ul class="footer-links">
-            <li><a href="https://www.xinyuu.cn/blackboard/privacy/" target="_blank" rel="noopener">隐私政策</a></li>
-            <li><a href="https://www.xinyuu.cn/blackboard/ruler/" target="_blank" rel="noopener">使用规则</a></li>
-          </ul>
-        </div>
-
+       
         
       </div>
 

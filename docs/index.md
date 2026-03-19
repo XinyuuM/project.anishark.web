@@ -11,7 +11,7 @@ hero:
       link: /api 
     - theme: alt
       text: 统计信息
-      link: /stats
+      link: /blackboard/stats.html
     - theme: alt
       text: 新番表
       link: https://db.xinyuu.cn/workerspace

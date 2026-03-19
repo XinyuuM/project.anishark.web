@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'aniShark Foundation',
+  title: 'anishark foundation',
   description: 'aniShark基金会 - Building the Foundation of Animation Data',
   lang: 'zh-CN',
 
